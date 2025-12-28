@@ -22,8 +22,8 @@ public class BuildScript
         // ========================
         // Ïóòè ê ôàéëàì ñáîðêè
         // ========================
-        string aabPath = "ChickenRun.aab";
-        string apkPath = "ChickenRun.apk";
+        string aabPath = "ZeusStrike.aab";
+        string apkPath = "ZeusStrike.apk";
 
         // ========================
         // Íàñòðîéêà Android Signing ÷åðåç ïåðåìåííûå îêðóæåíèÿ
